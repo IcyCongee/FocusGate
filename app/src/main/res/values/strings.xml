@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusGate</string>
+    <string name="service_label">FocusGate 使用管理</string>
+    <string name="service_description">按你在设置中开启的应用，管理已核实绑定的抖音、Bilibili和小红书：显示理由与时长确认，分别累计前台使用并在超时时返回桌面、展示休息页。仅读取根包名、窗口和屏幕状态，不读取页面文字或视频。可在FocusGate首页暂停每款应用，或在设置中关闭；普通悬浮窗权限无需开启。</string>
+</resources>
